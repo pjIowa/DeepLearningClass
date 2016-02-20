@@ -1,17 +1,24 @@
-Download the tar.gz files from this URL:
-
-http://yaroslavvb.com/upload/notMNIST/
-
-To Run the notebook locally:
-
-1. Open Terminal
-2. cd into the folder
-3. run the command: jupyter notebook
-
 Assignments for Udacity Deep Learning class with TensorFlow
 ===========================================================
 
 Course information can be found at https://www.udacity.com/course/deep-learning--ud730
+
+Original repo: https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/udacity
+
+Running the Jupyter Notebook Locally (Mac instructions)
+-------------------------------------------------------------
+1. Open Terminal
+2. Run the command: sudo pip install jupyter
+3. Download the tar.gz files from http://yaroslavvb.com/upload/notMNIST/
+4. Move the two tar.gz files into this folder
+5. Unzip them in the directory
+6. Open Terminal
+7. cd into the folder
+8. Run the command: jupyter notebook
+9. This should open a webpage with the contents of this folder
+
+
+Note: unzipping notMNIST_large.tar.gz can take especially long, go run or make coffee in the meantime.
 
 Running the Docker container from the Google Cloud repository
 -------------------------------------------------------------
