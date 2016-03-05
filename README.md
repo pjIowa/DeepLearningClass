@@ -20,6 +20,13 @@ Running the Jupyter Notebook Locally (Mac instructions)
 
 Note: unzipping notMNIST_large.tar.gz can take especially long, go run or make coffee in the meantime.
 
+###Word2Vec Links:
+The Udacity class didn't satisfactorily explain the Word2Vec and CBOW models required in Assignment 5. I found some videos from a professor who went over both. It's two lectures.
+
+https://www.youtube.com/watch?v=TsEGsdVJjuA
+
+https://www.youtube.com/watch?v=nuirUEmbaJU
+
 Running the Docker container from the Google Cloud repository
 -------------------------------------------------------------
 
